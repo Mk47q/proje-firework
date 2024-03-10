@@ -1,0 +1,83 @@
+@font-face {
+    font-family: vazir;
+    src: url(../font/vazir/Vazir-Medium.woff);
+}
+body{
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: vazir;
+    background-image: url(../img/pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -21rem;
+    backdrop-filter: blur(3px);
+}
+.box__accont{
+    background-color:  rgb(82, 82, 82);;
+    width: 410px;
+    height: 382px;
+    border-radius: 10px;
+}
+.box__accont__vector{
+    padding-top: 2.5rem;
+    text-align: center;
+}
+.box__accont__vector--img{
+
+}
+.box__accont__vector--title{
+    margin: 0;
+    color: green;
+}
+.box__accont__inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.box__accont__inputs__wrapper-input{
+
+}
+.box__accont__inputs__input-item{
+    display: block;
+    margin-top: 1.5rem;
+    border-radius: 6px;
+    width: 17rem;
+    height: 1.5rem;
+    border: none;
+    outline: 1px solid green;
+    font-family: vazir;
+}
+.box__accont__inputs__links{
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+    margin-top: 10px;
+}
+.box__accont__inputs__wrapper-link{
+    
+}
+.box__accont__inputs__links-item{
+    text-decoration: none;
+    color: green;
+}
+.box__accont__inputs__check{
+
+}
+.box__accont__inputs__links-item{
+
+}
+.box__accont__button{
+    border: none;
+    width: 7rem;
+    height: 2.5rem;
+    background-color: green;
+    font-family: vazir;
+    position: absolute;
+    top: 12.2rem;
+    border-radius: 4px;
+}
