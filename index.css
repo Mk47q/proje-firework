@@ -38,29 +38,6 @@ body {
   font-family: vazir;
   transition: all 1s;
 }
-/* .new-input__wrapper{
-    transition: all 1s;
-    animation: ani-input 1s inherit;
-    width: 16rem;
-    height: 2.4rem;
-}
-@keyframes ani-input{
-    0%{
-        width: 16rem;
-        height: 2.4rem;
-        transform: scale(0);
-    }
-    50%{
-        width: 20rem;
-        height: 3rem;
-        transform: scale(1rem);
-    }
-    100%{
-        width: 25rem;
-        height: 4.5rem;
-        transform: scale(1.5rem);
-    }
-} */
 .wrapperH__search__input:hover {
   border: 1px solid green;
 }
