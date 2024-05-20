@@ -399,7 +399,7 @@ body {
 }
 @media only screen and (max-width: 421px) {
   .container {
-    width: 60%;
+    width: 85%;
     margin: auto;
     padding-left: 2.5rem;
     padding-right: 2.5rem;
@@ -416,7 +416,7 @@ body {
 }
 @media only screen and (max-width: 380px) {
   .container {
-    width: 55%;
+    width: 85%;
     margin: auto;
     padding-left: 2.5rem;
     padding-right: 2.5rem;
